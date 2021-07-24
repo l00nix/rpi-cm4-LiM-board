@@ -8,7 +8,7 @@ It took about two months from idea to the prototype. The PCB design files are ca
 
 Here are some pictures and 3D renders of the LiM Carrier Board:
 
-LiM+ Carrier Board - top view             |  LiM Carrier Board - bottom view
+LiM+ Carrier Board - top view             |  LiM+x Carrier Board - bottom view
 :-------------------------:|:-------------------------:
 ![LiM+ Carrier Board Top View](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/LiM+_top.jpg)  |  ![LiM+ Carrier Board Bottom View](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/LiM+_bottom.jpg)
 
