@@ -1,6 +1,6 @@
 # RPi CM4 - LiM+ Carrier Board
 
-The second version of the minimalistic Raspberry Pi (RPi) Compute Module 4 (CM4) Carrier Board. Less-is-More (LiM) refers to the minimalistic design in its [original version](../pages/LiM_Board.md) only providing 5V power via USB-C power connector and two status (power/activity) LEDs. The LiM+ Carrier Board is the 'larger' sibling to the LiM Board by adding flashing capability of the Compute Module 4. Flashing can be done similarly to the [flashing process](https://www.raspberrypi.org/documentation/hardware/computemodule/cm-emmc-flashing.md) with the [CM4 IO board](https://www.raspberrypi.org/products/compute-module-4-io-board/). 
+The second version of the minimalistic LiM Raspberry Pi (RPi) Compute Module 4 (CM4) Carrier Board. Less-is-More (LiM) refers to the minimalistic design in its [original version](../pages/LiM_Board.md) only providing 5V power via USB-C power connector and two status (power/activity) LEDs. The LiM+ Carrier Board is the 'larger' (not by size but by functionality) sibling to the LiM Board by adding flashing capability of the Compute Module 4. Flashing can be done similarly to the [flashing process](https://www.raspberrypi.org/documentation/hardware/computemodule/cm-emmc-flashing.md) with the [CM4 IO board](https://www.raspberrypi.org/products/compute-module-4-io-board/). 
 
 This board is also meant for CM4 boards with onboard storage and wifi as this carrier board provides no other functionalty other than power, status LEDs and above mentioned flashing capability.
 
