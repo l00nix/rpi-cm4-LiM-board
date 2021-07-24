@@ -1,6 +1,0 @@
-(fp_lib_table
-  (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/hardware/libraries/CM4IO/CM4IO.pretty")(options "")(descr ""))
-  (lib (name "USB4105-GF-A")(type "KiCad")(uri "${KIPRJMOD}/hardware/libraries/USB4105-GF-A/USB4105-GF-A.pretty")(options "")(descr ""))
-  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/hardware/libraries/2020-11-06_22-01-36/footprints.pretty")(options "")(descr ""))
-  (lib (name "SM04B-SRSS-TB_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/hardware/libraries/SM04B-SRSS-TB_LF__SN_/SM04B-SRSS-TB_LF__SN_.pretty")(options "")(descr ""))
-)

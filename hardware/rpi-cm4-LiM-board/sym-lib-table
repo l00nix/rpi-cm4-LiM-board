@@ -1,6 +1,0 @@
-(sym_lib_table
-  (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/hardware/libraries/CM4IO/CM4IO.kicad_sym")(options "")(descr ""))
-  (lib (name "USB4105-GF-A")(type "Legacy")(uri "${KIPRJMOD}/hardware/libraries/USB4105-GF-A/USB4105-GF-A.lib")(options "")(descr ""))
-  (lib (name "2020-11-06_22-01-36")(type "Legacy")(uri "${KIPRJMOD}/hardware/libraries/2020-11-06_22-01-36/2020-11-06_22-01-36.lib")(options "")(descr ""))
-  (lib (name "SM04B-SRSS-TB_LF__SN_")(type "Legacy")(uri "${KIPRJMOD}/hardware/libraries/SM04B-SRSS-TB_LF__SN_/SM04B-SRSS-TB_LF__SN_.lib")(options "")(descr ""))
-)

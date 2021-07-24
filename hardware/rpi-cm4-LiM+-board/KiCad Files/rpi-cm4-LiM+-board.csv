@@ -1,0 +1,12 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"REF**,REF**,REF**";"Fiducial_1mm_Mask2mm";3;"Fiducial_1mm_Mask2mm";;;
+2;"R4,R1";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";2;"5.1k";;;
+3;"CR1";"SMBJ5.0A-TR";1;"SMBJ5.0A-TR";;;
+4;"U1";"SOT-353_SC-70-5";1;"74LVC1G07SE-7";;;
+5;"R2,R3";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";2;"1k";;;
+6;"J1";"GCT_USB4105-GF-A";1;"USB4105-GF-A";;;
+7;"D2";"LED_0603_1608Metric";1;"LED Red";;;
+8;"D1";"LED_0603_1608Metric";1;"LED Green";;;
+9;"J2";"PinHeader_1x02_P1.27mm_Vertical";1;"Conn_01x02_Male";;;
+10;"Module1";"Raspberry-Pi-4-Compute-Module";1;"ComputeModule4-CM4";;;
+11;"JP1";"SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm";1;"SolderJumper_2_Open";;;
