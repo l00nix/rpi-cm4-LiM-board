@@ -4,7 +4,7 @@ The second version of the minimalistic LiM Raspberry Pi (RPi) Compute Module 4 (
 
 This board is also meant for CM4 boards with onboard storage and wifi as this carrier board provides no other functionalty other than power, status LEDs and above mentioned flashing capability.
 
-It took about two months from idea to the prototype. The PCB design files are can be found [here](https://github.com/l00nix/rpi-cm4-LiM-board/tree/main/hardware/rpi-cm4-LiM%2B-board) 
+It took about two months from idea to the prototype. The PCB design files are can be found [here](https://github.com/l00nix/rpi-cm4-LiM-board/tree/main/hardware/rpi-cm4-LiM%2B-board). 
 
 Here are some pictures and 3D renders of the LiM Carrier Board:
 

@@ -7,7 +7,7 @@ This is meant for CM4 boards with onboard storage (a future LiM version might sp
 ![Picture of LiM Carrier Board with CM4 side by side](https://raw.githubusercontent.com/l00nix/rpi-cm4-LiM-board/main/images/LiM-CM4_sidebyside.png)
 _**PIC1 - LiM Carrier Board with CM4 side by side**_
 
-The first version of the LiM Carrier Board has been prototyped and more information can be found [here](pages/LiM_Board.md). The second version, the LiM+ Carrier Board has also been prototyped, more info can be found [here](pages/LiM+_Board.md)
+The first version of the LiM Carrier Board has been prototyped and more information can be found [here](pages/LiM_Board.md). The second version, the LiM+ Carrier Board has also been prototyped, more info can be found [here](pages/LiM+_Board.md).
 
 The LiM carrier board took about two months from idea (May 22nd, 2021) to delivery (July 14th, 2021). Special thanks to [Anish Verma](https://www.linkedin.com/in/anish-verma-a5a05a8b/){:target="_blank"} for working with me on the CAD designs of the carrier board.
 

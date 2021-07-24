@@ -4,7 +4,7 @@ The first version of the minimalistic Raspberry Pi (RPi) Compute Module 4 (CM4) 
 
 This is meant for CM4 boards with onboard storage and wifi as this carrier board provides no other functionalty other than power and status LEDs.
 
-It took about two months from idea to the prototype. The PCB design files are can be found [here](../hardware/rpi-cm4-LiM-board/) 
+It took about two months from idea to the prototype. The PCB design files are can be found [here](https://github.com/l00nix/rpi-cm4-LiM-board/tree/main/hardware/rpi-cm4-LiM-board). 
 
 Here are some pictures and 3D renders of the LiM Carrier Board:
 
