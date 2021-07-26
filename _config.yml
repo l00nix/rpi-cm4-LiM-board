@@ -1,2 +1,5 @@
 theme: jekyll-theme-slate
+title: rpi-cm4-LiM-board
+description: A series of minimalistic Raspberry Pi (RPi) Compute Module 4 (CM4) Carrier Boards
+show_downloads: true
 google_analytics: G-VYVD5M76Z8
