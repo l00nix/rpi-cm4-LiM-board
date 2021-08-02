@@ -618,7 +618,7 @@
       (net 1 "GND") (pinfunction "GND") (pintype "power_in") (tstamp d5966f12-6895-47e8-a2aa-3d64cb0e1cf1))
     (pad "None" np_thru_hole circle locked (at -2.89 -3.68 90) (size 0.65 0.65) (drill 0.65) (layers *.Cu *.Mask) (tstamp 4b5e4e0d-0181-4b84-a41c-0b0413a3c79c))
     (pad "None" np_thru_hole circle locked (at 2.89 -3.68 90) (size 0.65 0.65) (drill 0.65) (layers *.Cu *.Mask) (tstamp 8ac6f8f6-d0fd-466a-8c20-22290e9cfdf1))
-    (model "C:/Users/Ayan Rau/Downloads/rpi-cm4-LiM+-board/hardware/rpi-cm4-LiM+-board/USB4105-GF-A/USB4105-GF-A--3DModel-STEP-56544.STEP"
+    (model "${KIPRJMOD}/USB4105-GF-A/USB4105-GF-A--3DModel-STEP-56544.STEP"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -1364,15 +1364,55 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 90 180 180))
     )
-    (model "${KIPRJMOD}/CM4IO.3dshapes/RPI-CM4-Heatsink.STEP" hide
+    (model "${KIPRJMOD}/CM4IO.3dshapes/RPI-CM4-Heatsink.STEP"
       (offset (xyz 16.5 24 2.5))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 -90))
     )
-    (model "${KIPRJMOD}/CM4IO.3dshapes/CM4.step" hide
-      (offset (xyz 52.5 -3 0.5))
+    (model "${KIPRJMOD}/CM4IO.3dshapes/CM4.step"
+      (offset (xyz 52.5 -3 1.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
+    )
+    (model "${KIPRJMOD}/Screw/95836A283_BLACK-OXIDE 18-8 STAINLESS STEEL PAN HEAD PHILLIPS SCREWS.STEP"
+      (offset (xyz 0 0 -3.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "${KIPRJMOD}/Screw/95836A283_BLACK-OXIDE 18-8 STAINLESS STEEL PAN HEAD PHILLIPS SCREWS.STEP"
+      (offset (xyz 33 48 -3.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "${KIPRJMOD}/Screw/95836A283_BLACK-OXIDE 18-8 STAINLESS STEEL PAN HEAD PHILLIPS SCREWS.STEP"
+      (offset (xyz 33 0 -3.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "${KIPRJMOD}/Screw/95836A283_BLACK-OXIDE 18-8 STAINLESS STEEL PAN HEAD PHILLIPS SCREWS.STEP"
+      (offset (xyz 0 48 -3.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "${KIPRJMOD}/Screw/96315A112_METRIC 18-8 STAINLESS STEEL THIN HEX NUTS.STEP"
+      (offset (xyz 0 0 -2.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 0 0))
+    )
+    (model "${KIPRJMOD}/Screw/96315A112_METRIC 18-8 STAINLESS STEEL THIN HEX NUTS.STEP"
+      (offset (xyz 33 48 -2.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 0 0))
+    )
+    (model "${KIPRJMOD}/Screw/96315A112_METRIC 18-8 STAINLESS STEEL THIN HEX NUTS.STEP"
+      (offset (xyz 0 48 -2.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 0 0))
+    )
+    (model "${KIPRJMOD}/Screw/96315A112_METRIC 18-8 STAINLESS STEEL THIN HEX NUTS.STEP"
+      (offset (xyz 33 0 -2.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
     )
   )
 

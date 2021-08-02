@@ -1,8 +1,7 @@
 ---
-layout: page
 title: LiM+ Carrier Board
+layout: page
 ---
-
 
 # RPi CM4 - LiM+ Carrier Board
 
@@ -31,6 +30,10 @@ LiM+ Carrier Board 3D Render - top view             |  LiM+ Carrier Board 3D Ren
 LiM+ Carrier Board - 3D top view             |  LiM+ Carrier Board - 3D side view
 :-------------------------:|:-------------------------:
 ![3D RPi CM4 LiM+ Carrier Board PCB Top]({{ site.url }}/images/rpi-cm4-LiM+-board-3DtopwithCM4.PNG)  |  ![3D RPi CM4 LiM Carrier Board PCB Side]({{ site.url }}/images/rpi-cm4-LiM+-board-3DsidewithCM4.PNG)
+
+LiM+ Carrier Board - 3D breakout with heatsink             |  LiM+ Carrier Board - 3D with heatsink
+:-------------------------:|:-------------------------:
+![3D RPi CM4 LiM+ Carrier Board PCB breakout with heatsink]({{ site.url }}/images/rpi-cm4-LiM+-board-3d-heatsink.PNG)  |  ![3D RPi CM4 LiM Carrier Board PCB with heatsink]({{ site.url }}/images/rpi-cm4-LiM+-board-3Dwithscrews.PNG)
 
 You can read more about my RPi musings and projects on my [l00nix's RPi Musings Blog](https://rpi.loonix.ca/){:target="_blank"}.
 

@@ -434,7 +434,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "rpi-cm4-base-carrier.step",
+      "step": "../../../../../../../Downloads/rpi-cm4-LiM+-board.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
