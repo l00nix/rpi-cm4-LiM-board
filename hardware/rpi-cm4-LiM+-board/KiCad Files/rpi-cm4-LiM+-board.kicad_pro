@@ -434,7 +434,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../../../../../../../Downloads/rpi-cm4-LiM+-board.step",
+      "step": "../../../../../../../Downloads/rpi-cm4-LiM+-board_CM4.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
