@@ -1,2 +1,2 @@
-{% readme_header.html %}
-{% README.html %}
+{% include readme_header.html %}
+{% include README.html %}
