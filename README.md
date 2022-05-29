@@ -1,5 +1,1 @@
----
----
-
-{% include readme_header.html %}
-{% include README.html %}
+This repository builds the GitHub pages site: [https://lim.loonix.ca](https://lim.loonix.ca)
