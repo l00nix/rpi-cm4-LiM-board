@@ -4,8 +4,8 @@ The LiM Carrier Board series is a series of minimalistic Raspberry Pi (RPi) Comp
 
 This is meant for CM4 boards with onboard storage (a future LiM version might sport a SD card slot for CM4 Lite modules) and wifi as this carrier board provides no other functionalty other than power and status LEDs.
 
-![Picture of LiM Carrier Board with CM4 side by side]({{ site.url }}/images/LiM-CM4_sidebyside.png)
-_**PIC1 - LiM Carrier Board with CM4 side by side**_
+{% include carousel.html height="75" unit="%" duration="7" number="1" %}
+_**Various LiM Carrier Board models**_
 
 The first version of the LiM Carrier Board has been prototyped and more information can be found [here](pages/LiM_Board.html). The second version, the LiM+ Carrier Board has also been prototyped, more info can be found [here](pages/LiM+_Board.html).
 
@@ -30,10 +30,17 @@ Model | Power (5V USB-C) | LEDs (Power/Activity) | Flashing Capability | SD card
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 LiM Board | &#10004; | &#10004; | &#10060; | &#10060; | [prototype](pages/LiM_Board.html)
 LiM+ Board | &#10004; | &#10004; | &#10004; | &#10060; | [prototype](pages/LiM+_Board.html)
-LiM++ Board | &#10004; | &#10004; | &#10004; | &#10004; | conceptual
+LiM++ Board | &#10004; | &#10004; | &#10004; | &#10004; | abandoned
+
+While working onthe LiM++ Board I decided to move directions and add ac couple more features I could see of value. And so the LiM CM4 Cluster Carrire Board idea was born. The LiM CM4 Cluster Board has the following features:
 
 
-You can read more about my RPi musings and projects on my [l00nix's RPi Musings Blog](https://rpi.loonix.ca/){:target="_blank"}.
+{::nomarkdown}<ul><li>RPi Pi Compute Module 4 (CM4) support (both versions with and w/o eMMC - Lite version)</li><li>PoE Gigabit RJ45 port (GbE)</li><li>USB-C (USB 2.0) for CM4 module flashing (power + data)</li><li>toggle switch for boot/flash mode</li><li>microSD card slot</li><li>2232 and 2241 M.2 M-key socket dedicated for NVMe PCIe SSD drives</li><li>Fan Pins</li><li>SDA, SDC, YCC, GND pins for OLED Displays</li></ul>{:/} 
+
+You can read more about the LiM CM4 Cluster Carrier Board prototype [here](pages/LiM_Cluster_CB.html)
+
+
+More of my RPi musings and projects can be read on my [l00nix's RPi Musings Blog](https://rpi.loonix.ca/){:target="_blank"}.
 
 ## About
 
